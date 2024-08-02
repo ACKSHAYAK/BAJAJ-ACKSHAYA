@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 80%;
+    height: 100px;
+  }
+  
+  button {
+    margin: 20px;
+  }
+  
